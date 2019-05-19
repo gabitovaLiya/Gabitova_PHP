@@ -1,0 +1,67 @@
+* {
+    padding: 3px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-family:"Comic Sans MS";
+    background: #F0E68C;
+}
+
+#container {
+    width: 400px;
+    border: ;
+
+}
+
+#head{
+    background: ;
+    padding: 15px;
+}
+
+#content{
+    margin-top: 15px;
+    overflow: hidden;
+
+}
+
+#footer{
+    margin-top: 15px;
+    padding: 15px;
+
+}
+
+
+.headContent {
+    font-weight: bold;
+    font-size: 19px;
+    color: #4B0082;
+
+}
+
+.footerContent {
+
+    color: #DDA0DD;
+
+}
+
+.regFormItemLable {
+    margin: auto;
+    color: #483D8B;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.regFormInput {
+
+     border-radius: 10px;
+     padding: 2px;
+     background: white;
+
+ }
+
+.button {
+    background: #E6E6FA;
+    border-radius: 10px;
+    padding:5px;
+    color: #483D8B;
+
+}

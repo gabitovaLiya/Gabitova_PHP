@@ -1,0 +1,48 @@
+* {padding: 0px;
+
+   background:	linear-gradient(#A4D8F7, #1C4D95);
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.row {padding: 5px;
+    padding-right: 45px;
+    padding-left: 45px;
+
+}
+
+.regFormInput {
+    font-family: "Comic Sans MS";
+    border-radius: 10px;
+    padding: 2px;
+    background: white;
+
+}
+
+.regForm {
+    font-family:"Comic Sans MS";
+    font-weight: bold;
+    font-size: 19px;
+    color: #4B0082;
+
+}
+
+.regFormItemLable {
+    font-family: "Comic Sans MS";
+    color: #483D8B;
+    font-size: 15px;
+
+}
+
+.bt {
+    border-radius: 10px;
+    size: ;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+
+}
